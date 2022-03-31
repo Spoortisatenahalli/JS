@@ -1,0 +1,92 @@
+div{
+    height: 400px;
+    width: 400px;
+    background-color: blue;
+    opacity: 0.1 ;
+}
+
+body{
+    background-image: url(https://images.pexels.com/photos/301599/pexels-photo-301599.jpeg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+    background-repeat: no-repeat;
+    height: 1000px;
+    width: 100000000000000000000000000000000000000000000000000px;
+    background-position: lefttop;
+}
+
+
+/* 
+if(x>y && x>z){
+    if(y>z){
+      return y;
+    }
+    else
+    return z;
+  } 
+  if(y>x && y>z){
+    if(x>z){
+      return x;
+    }
+    else
+    return z;
+  }
+  if(z>y && z>x){
+    if(x>y){
+      return x;
+    }
+    else
+    return y;
+  }
+
+
+
+  if(A>B && A>C){
+    return A;
+  }
+else if(B>A && B>C){
+    return B;
+  }
+ else if(A==B && B==C){
+    return -1;
+  }
+ else{
+   return C;
+ }
+
+
+
+ Switch(true){
+    case a<=10:
+      return "E";
+    case a>=11 && a<=20:
+      return "D";
+    case a>=21 && a<=30:
+      return "C";
+    case a>=31 && a<=40:
+      return "B";
+    default:
+      return "A";
+      
+  } */
+
+
+
+  /* const countCharacters = (S) => 
+{
+  let B = [], 
+        count = 0,
+        result = 0;
+    for(var i = 0; i < S.length; i++)
+    {
+      if(S[i] === "A")
+      {
+        count += 1;
+      }
+      else if(S[i] === "D")
+      {
+        result += 1;
+      }
+    }
+    B[0] = count;
+    B[1] = result;
+    return B;  
+}; */
